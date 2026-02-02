@@ -1,4 +1,4 @@
-📰 News Article Classifier
+📰 Sri Lankan News Article Classifier
 
 A machine learning pipeline that classifies news articles into categories using text from headings and bodies. The trained model is then showed via a Streamlit web app.
 
