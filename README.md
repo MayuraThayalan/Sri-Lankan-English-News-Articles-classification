@@ -1,8 +1,8 @@
-📰 Sri Lankan News Article Classifier
+Sri Lankan News Article Classifier
 
 A machine learning pipeline that classifies news articles into categories using text from headings and bodies. The trained model is then showed via a Streamlit web app.
 
-📁 Project Structure
+Project Structure
 
 - `news heading.csv` – CSV file containing news headings and their categories.
 - `news body.csv` – CSV file containing the full news article bodies.
@@ -17,7 +17,7 @@ A machine learning pipeline that classifies news articles into categories using 
 - `categories.pkl` – List of unique category labels.
 - `app.py` – Streamlit app that loads the saved models and lets users classify new news articles.
 
-🛠️ Requirements
+Requirements
 
 To run the training pipeline and app, install:
 
